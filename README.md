@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 🌱 I’m currently learning advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, Python, or any tech-related topics.
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [8201072@gmail.com](mailto:email@example.com)
 - ⚡ Fun fact: I love hiking and exploring nature.
 
 ## 🛠️ Skills
@@ -30,10 +30,5 @@ A brief description of the project and what it does.
 ## 📈 GitHub Stats
 
 ![Guioalis's GitHub stats](https://github-readme-stats.vercel.app/api?username=guioalis&show_icons=true&theme=radical)
-
-## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/guioalis)
-- [Twitter](https://twitter.com/guioalis)
 
 Thanks for visiting my profile! Have a great day! 😊
