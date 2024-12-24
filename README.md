@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 🌱 I’m currently learning advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web development, Python, or any tech-related topics.
-- 📫 How to reach me: [8201072@gmail.com](mailto:email@example.com)
+- 📫 How to reach me: [9956597@gmail.com](mailto:email@example.com)
 - ⚡ Fun fact: I love hiking and exploring nature.
 
 ## 🛠️ Skills
