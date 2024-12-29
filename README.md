@@ -16,17 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - **Frameworks**: React, Node.js, Django
 - **Tools**: Git, Docker, VS Code
 - **Databases**: MySQL, MongoDB
-
-## 📂 Projects
-
-Here are some of the projects I've been working on:
-
-### [Project Name](https://github.com/guioalis/project-name)
-A brief description of the project and what it does.
-
-### [Another Project](https://github.com/guioalis/another-project)
-A brief description of the project and what it does.
-
+- 
 ## 📈 GitHub Stats
 
 ![Guioalis's GitHub stats](https://github-readme-stats.vercel.app/api?username=guioalis&show_icons=true&theme=radical)
